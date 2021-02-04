@@ -122,4 +122,24 @@ p {
   padding-left: 25px;
   padding-right: 25px;
 }
+
+.col-4 {
+  -ms-flex-preferred-size: 20%;
+      flex-basis: 20%;
+  padding: 10px;
+  min-width: 200px;
+  margin-bottom: 50px;
+}
+
+.col-4 img {
+  width: 100%;
+}
+
+.title {
+  text-align: center;
+  margin: 0 auto 80px;
+  position: relative;
+  line-height: 60px;
+  color: #555;
+}
 /*# sourceMappingURL=ecom.css.map */
